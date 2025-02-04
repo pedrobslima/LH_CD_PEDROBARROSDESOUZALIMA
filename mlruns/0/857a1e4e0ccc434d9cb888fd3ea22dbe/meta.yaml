@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/incidium-test/mlruns/0/857a1e4e0ccc434d9cb888fd3ea22dbe/artifacts
+end_time: 1738541537418
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 857a1e4e0ccc434d9cb888fd3ea22dbe
+run_name: adorable-jay-727
+run_uuid: 857a1e4e0ccc434d9cb888fd3ea22dbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738541526190
+status: 3
+tags: []
+user_id: pedro

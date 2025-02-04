@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738513887057
+current_stage: None
+description: null
+last_updated_timestamp: 1738513887057
+name: RandomForest
+run_id: a76962f6f8274e079d53eb65d93b6c9c
+run_link: null
+source: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/incidium-test/mlruns/0/a76962f6f8274e079d53eb65d93b6c9c/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/incidium-test/mlruns/0/a76962f6f8274e079d53eb65d93b6c9c/artifacts/model
+user_id: null
+version: 1

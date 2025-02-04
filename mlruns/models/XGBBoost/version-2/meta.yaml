@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738544440320
+current_stage: None
+description: null
+last_updated_timestamp: 1738544440320
+name: XGBBoost
+run_id: ed2fbba060da46c3b553405e15ef2016
+run_link: null
+source: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/incidium-test/mlruns/0/ed2fbba060da46c3b553405e15ef2016/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/pedro/Documents/NOVOdeltadelta/pog/incidium-test/mlruns/0/ed2fbba060da46c3b553405e15ef2016/artifacts/model
+user_id: null
+version: 2
