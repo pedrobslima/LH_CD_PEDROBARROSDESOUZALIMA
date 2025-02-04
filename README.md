@@ -1,3 +1,6 @@
+# Vídeo sobre o desenvolvimento:
+- https://drive.google.com/file/d/1z0A4C5XbGZaWFRZLqiKr2zIswRjkI6Bg/view?usp=sharing
+
 # Como instalar:
 1. Abra o Terminal ou Prompt de Comando
 2. Navegue até o diretório desejado usando o comando "cd":
