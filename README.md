@@ -1,9 +1,9 @@
 # Como instalar:
 1. Abra o Terminal ou Prompt de Comando
-2. Navegue até o diretório desejado usando o comando "cd"
+2. Navegue até o diretório desejado usando o comando "cd":
     ```cd path/to/your/directory```
 3. Execute o seguinte código:
-    ```git clone https://github.com/pedrobslima/incidium-test.git```
+    ```git clone https://github.com/pedrobslima/LH_CD_PEDROBARROSDESOUZALIMA.git```
 4. E depois instale os pacotes de requirements.txt com:
     ```pip install -r requirements.txt```
 
